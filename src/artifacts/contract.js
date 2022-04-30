@@ -1,0 +1,6 @@
+const CROWDSOURCE = "0xcC4A3b77E3C5b65Dc696ced22c73020ACF439642";
+
+module.exports ={
+    CROWDSOURCE
+
+}
